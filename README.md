@@ -25,3 +25,8 @@ Now you can run the project with this command:
 
 `python manage.py runserver`
 
+# Json collection
+Change txt extension to json to import collection in postman
+
+
+[ClickOh Ejercicio.postman_collection.txt](https://github.com/gabrielf10/clickoh-ecommerce/files/8169671/ClickOh.Ejercicio.postman_collection.txt)
